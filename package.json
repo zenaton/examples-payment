@@ -1,0 +1,21 @@
+{
+  "name": "examples-javascript",
+  "version": "1.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/zenaton/examples-node.git",
+  "author": "Zenaton Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenaton/examples-node/issues"
+  },
+  "homepage": "https://zenaton.com",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "6.2.0",
+    "uniqid": "5.0.3",
+    "zenaton": "^0.5.1"
+  }
+}
